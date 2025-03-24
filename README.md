@@ -37,7 +37,7 @@
 
 ## Скриншоты работы приложения
 
-![изображение](https://github.com/user-attachments/assets/4940e141-57ce-4832-bf25-1434ada9c127)  ![изображение](https://github.com/user-attachments/assets/35e1c984-d37f-4abb-b9ba-7f448144e810) ![изображение](https://github.com/user-attachments/assets/78cb4141-f0c5-4dce-9544-3fb1af684565)
+![изображение](https://github.com/user-attachments/assets/4940e141-57ce-4832-bf25-1434ada9c127)
 
 ## Выводы
 
