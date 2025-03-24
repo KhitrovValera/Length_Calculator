@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">lab1plus</string>
+
+    <string-array name="units_array">
+        <item>Нанометры</item>
+        <item>Микрон</item>
+        <item>Миллиметры</item>
+        <item>Сантиметры</item>
+        <item>Дециметры</item>
+        <item>Метры</item>
+        <item>Километры</item>
+        <item>Дюймы</item>
+        <item>Футы</item>
+        <item>Ярды</item>
+        <item>Мили</item>
+    </string-array>
+
+</resources>
